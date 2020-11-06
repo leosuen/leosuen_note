@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "39ff82f8ce1953cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1617426c6702251",
+        "type": "leaf",
+        "dimension": 45.67567567567568,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "資訊管理考試/計算機概論/計算機組織與結構/管線作業.md",
+            "mode": "source"
+          }
+        },
+        "group": "b0ea2f3f93745f6f"
+      },
+      {
+        "id": "328c1cae7c6808cb",
+        "type": "leaf",
+        "dimension": 54.32432432432432,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "資訊管理考試/計算機概論/計算機組織與結構/管線作業.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b0ea2f3f93745f6f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "750de94b86fd63a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d434eee2a931d3a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03f2d0f5239dee90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a536a8663e9163bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "50e6a3dd515b9b1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6bebc5cc142ba5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41cf49243ffe7cdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "資訊管理考試/計算機概論/計算機組織與結構/管線作業.md"
+              }
+            }
+          },
+          {
+            "id": "f3b9de2fa745f761",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "資訊管理考試/計算機概論/計算機組織與結構/管線作業.md",
+    "管線作業.md",
+    "資訊管理考試/計算機概論/計算機組織與結構/計算機組織與結構要點.md",
+    "資訊管理考試/計算機概論/計算機組織與結構/指令週期.md",
+    "指令週期.md",
+    "資訊管理考試/計算機概論/計算機組織與結構/X86暫存器.md",
+    "X86暫存器.md",
+    "資訊管理考試/計算機概論/計算機組織與結構/指令集架構.md",
+    "資訊管理考試/計算機概論/計算機組織與結構/CPU.md",
+    "CPU.md"
+  ]
+}
