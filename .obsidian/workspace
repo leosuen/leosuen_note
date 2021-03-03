@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "媒體存取控制—多重存取協定.md",
+            "file": "資訊管理考試/計算機概論/計算機組織與結構/X86暫存器.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "媒體存取控制—多重存取協定.md",
+            "file": "資訊管理考試/計算機概論/計算機組織與結構/X86暫存器.md",
             "mode": "preview"
           }
         },
@@ -55,11 +55,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "opcode",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +85,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "媒體存取控制—多重存取協定.md"
+                "file": "資訊管理考試/計算機概論/計算機組織與結構/X86暫存器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -88,7 +99,10 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ]
@@ -99,15 +113,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "資訊管理考試/計算機概論/計算機組織與結構/X86暫存器.md",
+    "資訊管理考試/網路概論/長途電信技術.md",
     "媒體存取控制—多重存取協定.md",
     "資訊管理考試/網路概論/(網路概論前言).md",
     "NAT與網路檢測工具.md",
     "資訊管理考試/網路概論/IPv4定址.md",
     "IPv4定址.md",
-    "資訊管理考試/網路概論/長途電信技術.md",
     "資訊管理考試/網路概論/封包與位址格式.md",
     "封包與位址格式.md",
-    "資訊管理考試/網路概論/傳輸層技術.md",
-    "傳輸層技術.md"
+    "資訊管理考試/網路概論/傳輸層技術.md"
   ]
 }
