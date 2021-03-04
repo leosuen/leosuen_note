@@ -1,48 +1,30 @@
 {
   "main": {
-    "id": "39ff82f8ce1953cf",
+    "id": "ffec4a463eecdf5d",
     "type": "split",
     "children": [
       {
-        "id": "b1617426c6702251",
+        "id": "87180808eff0c6d3",
         "type": "leaf",
-        "dimension": 45.67567567567568,
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "資訊管理考試/計算機概論/計算機組織與結構/X86暫存器.md",
-            "mode": "source"
-          }
-        },
-        "group": "b0ea2f3f93745f6f"
-      },
-      {
-        "id": "328c1cae7c6808cb",
-        "type": "leaf",
-        "dimension": 54.32432432432432,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "資訊管理考試/計算機概論/計算機組織與結構/X86暫存器.md",
-            "mode": "preview"
-          }
-        },
-        "group": "b0ea2f3f93745f6f"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "750de94b86fd63a2",
+    "id": "fe5917ffa481b3be",
     "type": "split",
     "children": [
       {
-        "id": "d434eee2a931d3a8",
+        "id": "5beed1c3ba761393",
         "type": "tabs",
         "children": [
           {
-            "id": "03f2d0f5239dee90",
+            "id": "68bdff4d1045f4fc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +32,12 @@
             }
           },
           {
-            "id": "a536a8663e9163bf",
+            "id": "10e4f00fe8d78fa1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "opcode",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,28 +46,26 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 300
   },
   "right": {
-    "id": "50e6a3dd515b9b1e",
+    "id": "e0a13f8cf7470b67",
     "type": "split",
     "children": [
       {
-        "id": "f6bebc5cc142ba5e",
+        "id": "3b3581e7724dee66",
         "type": "tabs",
         "children": [
           {
-            "id": "41cf49243ffe7cdd",
+            "id": "9cb036f174409dc3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資訊管理考試/計算機概論/計算機組織與結構/X86暫存器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +75,7 @@
             }
           },
           {
-            "id": "f3b9de2fa745f761",
+            "id": "db680de40b6d340f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,16 +92,5 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": [
-    "資訊管理考試/計算機概論/計算機組織與結構/X86暫存器.md",
-    "資訊管理考試/網路概論/長途電信技術.md",
-    "媒體存取控制—多重存取協定.md",
-    "資訊管理考試/網路概論/(網路概論前言).md",
-    "NAT與網路檢測工具.md",
-    "資訊管理考試/網路概論/IPv4定址.md",
-    "IPv4定址.md",
-    "資訊管理考試/網路概論/封包與位址格式.md",
-    "封包與位址格式.md",
-    "資訊管理考試/網路概論/傳輸層技術.md"
-  ]
+  "lastOpenFiles": []
 }
