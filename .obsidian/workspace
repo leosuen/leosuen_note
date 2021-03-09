@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "87180808eff0c6d3",
+        "id": "d991144d9f56016a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "資訊管理考試/計算機概論/資料表示法/補數系統.md",
+            "file": "資訊管理考試/計算機概論/資料表示法/超N碼.md",
             "mode": "source"
           }
         },
-        "group": "b31e348573b1b3b7"
+        "group": "41a32e13d7401b65"
       },
       {
-        "id": "ff5bfdd8f5706a72",
+        "id": "45d8428ccfca33f0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "資訊管理考試/計算機概論/資料表示法/補數系統.md",
+            "file": "資訊管理考試/計算機概論/資料表示法/超N碼.md",
             "mode": "preview"
           }
         },
-        "group": "b31e348573b1b3b7"
+        "group": "41a32e13d7401b65"
       }
     ],
     "direction": "vertical"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "補",
+                "query": "opcode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,8 +62,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資訊管理考試/計算機概論/資料表示法/補數系統.md",
+                "file": "資訊管理考試/計算機概論/資料表示法/超N碼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +110,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "資訊管理考試/計算機概論/資料表示法/補數系統.md",
-    "資訊管理考試/計算機概論/資料表示法/(資料表示法索引).md",
-    "資訊管理考試/計算機概論/計算機組織與結構/匯流排類型與計算.md",
-    "資訊管理考試/計算機概論/作業系統/記憶體管理.md",
-    "資訊管理考試/計算機概論/計算機組織與結構/CPU.md",
-    "資訊管理考試/計算機概論/計算機組織與結構/管線作業.md",
-    "資訊管理考試/計算機概論/計算機組織與結構/磁碟.md",
-    "資訊管理考試/計算機概論/計算機組織與結構/電腦系統組成.md",
-    "資訊管理考試/計算機概論/計算機組織與結構/馮紐曼系統.md",
-    "資訊管理考試/計算機概論/計算機組織與結構/單位換算.md"
+    "資訊管理考試/計算機概論/資料表示法/超N碼.md",
+    "資訊管理考試/計算機概論/資料表示法/數字系統.md",
+    "資訊管理考試/計算機概論/資料表示法/編碼系統.md",
+    "資訊管理考試/計算機概論/資料表示法/文字與多媒體資料.md",
+    "資訊管理考試/計算機概論/資料表示法/文字資料.md",
+    "資訊管理考試/計算機概論/計算機概論前言.md",
+    "行程間通訊.md",
+    "資訊管理考試/計算機概論/作業系統/(作業系統索引).md",
+    "資訊管理考試/計算機概論/作業系統/雲端運算.md",
+    "資訊管理考試/計算機概論/計算機組織與結構/X86暫存器.md"
   ]
 }
