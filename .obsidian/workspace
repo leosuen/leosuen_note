@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "資訊管理考試/計算機概論/區塊鍊.md",
+            "file": "資訊管理考試/大數據.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "資訊管理考試/計算機概論/區塊鍊.md",
+            "file": "資訊管理考試/大數據.md",
             "mode": "preview"
           }
         },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "區塊",
+                "query": "大數據",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 194
+    "width": 191
   },
   "right": {
     "id": "e0a13f8cf7470b67",
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資訊管理考試/計算機概論/區塊鍊.md",
+                "file": "資訊管理考試/大數據.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "資訊管理考試/大數據.md",
+    "大數據.md",
+    "20210115-TAIR課程/筆記.md",
+    "資訊管理考試/計算機概論/區塊鍊.md",
     "資訊管理考試/計算機概論/Untitled.md",
     "資訊管理考試/計算機概論/作業系統/行程與執行緒.md",
     "資訊管理考試/計算機概論/作業系統/死結.md",
     "資訊管理考試/計算機概論/作業系統/平行處理與分散處理.md",
     "資訊管理考試/計算機概論/資料結構與演算法/排序演算法.md",
-    "資訊管理考試/計算機概論/資料結構與演算法/搜尋演算法.md",
-    "資訊管理考試/計算機概論/資料結構與演算法/演算法分析.md",
-    "資訊管理考試/計算機概論/資料結構與演算法/演算法設計.md",
-    "資訊管理考試/計算機概論/資料結構與演算法/樹狀結構.md",
-    "資訊管理考試/網路概論/長途電信技術.md"
+    "資訊管理考試/計算機概論/資料結構與演算法/搜尋演算法.md"
   ]
 }
