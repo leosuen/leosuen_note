@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "資訊管理考試/計算機概論/作業系統/死結.md",
+            "file": "資訊管理考試/計算機概論/區塊鍊.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "資訊管理考試/計算機概論/作業系統/死結.md",
+            "file": "資訊管理考試/計算機概論/區塊鍊.md",
             "mode": "preview"
           }
         },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ama",
+                "query": "區塊",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資訊管理考試/計算機概論/作業系統/死結.md",
+                "file": "資訊管理考試/計算機概論/區塊鍊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "資訊管理考試/計算機概論/Untitled.md",
+    "資訊管理考試/計算機概論/作業系統/行程與執行緒.md",
     "資訊管理考試/計算機概論/作業系統/死結.md",
     "資訊管理考試/計算機概論/作業系統/平行處理與分散處理.md",
     "資訊管理考試/計算機概論/資料結構與演算法/排序演算法.md",
@@ -117,8 +119,6 @@
     "資訊管理考試/計算機概論/資料結構與演算法/演算法分析.md",
     "資訊管理考試/計算機概論/資料結構與演算法/演算法設計.md",
     "資訊管理考試/計算機概論/資料結構與演算法/樹狀結構.md",
-    "資訊管理考試/網路概論/長途電信技術.md",
-    "資訊管理考試/網路概論/封包與位址格式.md",
-    "資訊管理考試/網路概論/常見應用層協定.md"
+    "資訊管理考試/網路概論/長途電信技術.md"
   ]
 }
