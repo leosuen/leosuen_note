@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "資訊管理考試/網路概論/網路拓樸.md",
+            "file": "資訊管理考試/網路概論/傳輸層技術.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "資訊管理考試/網路概論/網路拓樸.md",
+            "file": "資訊管理考試/網路概論/傳輸層技術.md",
             "mode": "preview"
           }
         },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "區塊",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資訊管理考試/網路概論/網路拓樸.md",
+                "file": "資訊管理考試/網路概論/傳輸層技術.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "資訊管理考試/網路概論/傳輸層技術.md",
+    "媒體存取控制—多重存取協定.md",
+    "資訊管理考試/網路概論/網路應用程式.md",
+    "資訊管理考試/計算機概論/資料結構與演算法/排序演算法.md",
+    "資訊管理考試/計算機概論/資料結構與演算法/搜尋演算法.md",
+    "資訊管理考試/計算機概論/資料結構與演算法/演算法分析.md",
+    "資訊管理考試/計算機概論/資料結構與演算法/樹狀結構.md",
     "資訊管理考試/網路概論/網路拓樸.md",
     "資訊管理考試/網路概論/(網路概論前言).md",
-    "網路拓樸.md",
-    "資訊管理考試/網路概論/常見傳輸媒體.md",
-    "常見傳輸媒體.md",
-    "NAT與網路檢測工具.md",
-    "資訊管理考試/網路概論/封包與位址格式.md",
-    "資訊管理考試/資訊安全/網路攻擊常見手法.md",
-    "資訊管理考試/網路概論/傳輸層技術.md",
-    "資訊管理考試/網路概論/常見應用層協定.md"
+    "網路拓樸.md"
   ]
 }
