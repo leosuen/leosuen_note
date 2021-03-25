@@ -1,54 +1,46 @@
 {
   "main": {
-    "id": "ffec4a463eecdf5d",
+    "id": "dfd1f459a051ddae",
     "type": "split",
     "children": [
       {
-        "id": "d991144d9f56016a",
+        "id": "7deca7c984e6ee0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "資訊管理考試/計算機概論/資料結構與演算法/陣列與鏈結陣列.md",
+            "mode": "source"
+          }
+        },
+        "group": "31df19786a744812"
+      },
+      {
+        "id": "65f02b297b216b86",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "資訊管理考試/計算機概論/資料表示法/數字系統.md",
-=======
-            "file": "資訊管理考試/網路概論/傳輸層技術.md",
->>>>>>> 3f4de4a04676447e87dd6ac7ecdc67bbc67e617b
-            "mode": "source"
-          }
-        },
-        "group": "bbfca5b3e4233b1a"
-      },
-      {
-        "id": "4cdd788537aea0fb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< HEAD
-            "file": "資訊管理考試/計算機概論/資料表示法/數字系統.md",
-=======
-            "file": "資訊管理考試/網路概論/傳輸層技術.md",
->>>>>>> 3f4de4a04676447e87dd6ac7ecdc67bbc67e617b
+            "file": "資訊管理考試/計算機概論/資料結構與演算法/陣列與鏈結陣列.md",
             "mode": "preview"
           }
         },
-        "group": "bbfca5b3e4233b1a"
+        "group": "31df19786a744812"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fe5917ffa481b3be",
+    "id": "b230190d85a94c18",
     "type": "split",
     "children": [
       {
-        "id": "5beed1c3ba761393",
+        "id": "9def4e94d8a29aeb",
         "type": "tabs",
         "children": [
           {
-            "id": "68bdff4d1045f4fc",
+            "id": "9aba5219f97484c7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +48,7 @@
             }
           },
           {
-            "id": "10e4f00fe8d78fa1",
+            "id": "dd534144a6f57f03",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,27 +66,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 194
+    "width": 300
   },
   "right": {
-    "id": "e0a13f8cf7470b67",
+    "id": "d7aab455ef68cf1c",
     "type": "split",
     "children": [
       {
-        "id": "3b3581e7724dee66",
+        "id": "f3c83910fbf4f532",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb036f174409dc3",
+            "id": "10b610b923c22326",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "資訊管理考試/計算機概論/資料表示法/數字系統.md",
-=======
-                "file": "資訊管理考試/網路概論/傳輸層技術.md",
->>>>>>> 3f4de4a04676447e87dd6ac7ecdc67bbc67e617b
+                "file": "資訊管理考試/計算機概論/資料結構與演算法/陣列與鏈結陣列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +92,7 @@
             }
           },
           {
-            "id": "db680de40b6d340f",
+            "id": "c4eed0e592bd8edf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,28 +110,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "資訊管理考試/計算機概論/資料表示法/數字系統.md",
-    "資訊管理考試/計算機概論/資料表示法/影像資料.md",
-    "資訊管理考試/計算機概論/資料表示法/磁碟陣列.md",
-    "資訊管理考試/計算機概論/資料表示法/漢明碼.md",
-    "資訊管理考試/計算機概論/資料表示法/資料壓縮.md",
-    "資訊管理考試/計算機概論/資料表示法/補數系統.md",
-    "資訊管理考試/計算機概論/資料表示法/傳輸錯誤處理.md",
-    "資訊管理考試/計算機概論/資料表示法/超N碼.md",
-    "資訊管理考試/計算機概論/資料表示法/循環冗餘碼.md",
-    "資訊管理考試/計算機概論/資料表示法/浮點數表示法.md"
-=======
-    "資訊管理考試/網路概論/傳輸層技術.md",
-    "媒體存取控制—多重存取協定.md",
-    "資訊管理考試/網路概論/網路應用程式.md",
+    "資訊管理考試/計算機概論/資料結構與演算法/陣列與鏈結陣列.md",
     "資訊管理考試/計算機概論/資料結構與演算法/排序演算法.md",
     "資訊管理考試/計算機概論/資料結構與演算法/搜尋演算法.md",
-    "資訊管理考試/計算機概論/資料結構與演算法/演算法分析.md",
-    "資訊管理考試/計算機概論/資料結構與演算法/樹狀結構.md",
-    "資訊管理考試/網路概論/網路拓樸.md",
-    "資訊管理考試/網路概論/(網路概論前言).md",
-    "網路拓樸.md"
->>>>>>> 3f4de4a04676447e87dd6ac7ecdc67bbc67e617b
+    "資訊管理考試/計算機概論/資料結構與演算法/演算法分析.md"
   ]
 }
